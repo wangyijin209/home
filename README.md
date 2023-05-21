@@ -1,8 +1,8 @@
 # 个人主页
-[cloudflare pages](www.kirin.zip)
+[cloudflare pages](https://www.kirin.zip)
 
 
-[vercel](kirin.zip)
+[vercel](https://kirin.zip)
 
 
-[netlify](my.kirin.zip)
+[netlify](https://my.kirin.zip)
