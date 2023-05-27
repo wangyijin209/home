@@ -11,7 +11,7 @@
           </el-radio-group>
         </div>
       </el-collapse-item>
-      <el-collapse-item title="其他设置" name="2">
+      <el-collapse-item title="显示设置" name="2">
         <div class="item">
           <span class="text">建站日期显示</span>
           <el-switch
@@ -21,8 +21,6 @@
             :inactive-icon="CloseSmall"
           />
         </div>
-      </el-collapse-item>
-      <el-collapse-item title="其他设置" name="3">
         <div class="item">
           <span class="text">Github贡献表格显示</span>
           <el-switch
@@ -32,6 +30,9 @@
             :inactive-icon="CloseSmall"
           />
         </div>
+      </el-collapse-item>
+      <el-collapse-item title="其他设置" name="3">
+        <div>设置内容待增加</div>
       </el-collapse-item>
       <el-collapse-item title="其他设置" name="4">
         <div>设置内容待增加</div>
